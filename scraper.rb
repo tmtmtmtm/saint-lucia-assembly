@@ -24,7 +24,7 @@ def scrape_list(url)
   noko = noko_for(url)
   noko.xpath('.//table[@class="mce-item-table"]//tr[.//img]').each do |tr|
     data = { 
-      name: tr.css('strong').text.tidy,
+      name: tr.css('strong').text.sub('Hon. ','').tidy,
       image: tr.css('img/@src').text,
     }
     data[:image] = URI.join(url, URI.escape(data[:image])).to_s unless data[:image].to_s.empty?
