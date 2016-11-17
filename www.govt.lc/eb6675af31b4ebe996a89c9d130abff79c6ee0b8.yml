@@ -1,0 +1,39 @@
+---
+request:
+  method: get
+  uri: http://www.govt.lc/house-of-assembly
+  body:
+    encoding: US-ASCII
+    string: ''
+  headers:
+    Accept-Encoding:
+    - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+    Accept:
+    - '*/*'
+    User-Agent:
+    - Ruby
+response:
+  status:
+    code: 200
+    message: OK
+  headers:
+    Cache-Control:
+    - private
+    Content-Type:
+    - text/html; charset=utf-8
+    Server:
+    - Microsoft-IIS/7.0
+    X-Aspnet-Version:
+    - 4.0.30319
+    Set-Cookie:
+    - __AntiXsrfToken=2db2feaaf3b74c8291b4653ffc205980; path=/; HttpOnly
+    X-Powered-By:
+    - Government of Saint Lucia
+    Date:
+    - Thu, 17 Nov 2016 17:22:12 GMT
+    Content-Length:
+    - '107334'
+  body:
+    encoding: UTF-8
+  http_version: 
+recorded_at: Thu, 17 Nov 2016 17:22:13 GMT
