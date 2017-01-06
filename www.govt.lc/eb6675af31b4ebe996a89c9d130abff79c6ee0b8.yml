@@ -26,14 +26,14 @@ response:
     X-Aspnet-Version:
     - 4.0.30319
     Set-Cookie:
-    - __AntiXsrfToken=107d4b2476a24e0e83f4dba46762e174; path=/; HttpOnly
+    - __AntiXsrfToken=a543898cfceb4eaca89203aeb36322ce; path=/; HttpOnly
     X-Powered-By:
     - Government of Saint Lucia
     Date:
-    - Thu, 05 Jan 2017 13:05:57 GMT
+    - Fri, 06 Jan 2017 09:44:07 GMT
     Content-Length:
     - '107672'
   body:
     encoding: UTF-8
   http_version: 
-recorded_at: Thu, 05 Jan 2017 13:05:58 GMT
+recorded_at: Fri, 06 Jan 2017 09:44:08 GMT
