@@ -21,19 +21,21 @@ response:
     - private
     Content-Type:
     - text/html; charset=utf-8
+    Vary:
+    - Accept-Encoding
     Server:
-    - Microsoft-IIS/7.0
+    - Microsoft-IIS/8.5
     X-Aspnet-Version:
     - 4.0.30319
     Set-Cookie:
-    - __AntiXsrfToken=0d74b63ac0bf4a93b09c35076bd2df47; path=/; HttpOnly
+    - __AntiXsrfToken=21f0ea597814478a98799481320e9f7d; path=/; HttpOnly
     X-Powered-By:
-    - Government of Saint Lucia
+    - ASP.NET
     Date:
-    - Fri, 10 Feb 2017 02:52:19 GMT
+    - Tue, 14 Feb 2017 20:52:19 GMT
     Content-Length:
-    - '107672'
+    - '99035'
   body:
-    encoding: UTF-8
+    encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 10 Feb 2017 02:52:20 GMT
+recorded_at: Tue, 14 Feb 2017 20:52:20 GMT
