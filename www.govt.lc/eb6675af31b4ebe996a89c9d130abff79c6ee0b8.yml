@@ -30,12 +30,12 @@ response:
     X-Aspnet-Version:
     - 4.0.30319
     Set-Cookie:
-    - __AntiXsrfToken=4b1e5625c1e249739a8a5e19f4576824; path=/; HttpOnly
+    - __AntiXsrfToken=350cb94296194b21bea283adac271c47; path=/; HttpOnly
     X-Powered-By:
     - ASP.NET
     Date:
-    - Thu, 15 Jun 2017 22:10:51 GMT
+    - Fri, 16 Jun 2017 06:12:57 GMT
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 15 Jun 2017 22:10:51 GMT
+recorded_at: Fri, 16 Jun 2017 06:12:57 GMT
