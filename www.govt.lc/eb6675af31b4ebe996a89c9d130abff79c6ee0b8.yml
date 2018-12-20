@@ -28,14 +28,14 @@ response:
     X-Aspnet-Version:
     - 4.0.30319
     Set-Cookie:
-    - __AntiXsrfToken=4c4ba88286fd41069e238c7fa9d8cd4e; path=/; HttpOnly
+    - __AntiXsrfToken=f6538b98461545f9b479dc19e1f73e75; path=/; HttpOnly
     X-Powered-By:
     - ASP.NET
     Date:
-    - Wed, 19 Dec 2018 00:41:30 GMT
+    - Thu, 20 Dec 2018 15:06:22 GMT
     Content-Length:
-    - '99244'
+    - '99231'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 19 Dec 2018 00:41:30 GMT
+recorded_at: Thu, 20 Dec 2018 15:06:22 GMT
